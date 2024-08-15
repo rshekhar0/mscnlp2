@@ -1,0 +1,1 @@
+It provides easy-to-use interfaces to over 50 corpora and lexical resources.

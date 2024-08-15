@@ -1,0 +1,1 @@
+Creating your own corpus allows for customized text processing and analysis.
